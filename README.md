@@ -4,9 +4,12 @@ A real-time facial emotion detection application that utilizes OpenCV for video 
 
 📸 Features
 
-Real-time video stream processing using OpenCV.
-Face detection with Haar Cascade or HOG + SVM.
-Emotion classification using a trained machine learning model.
-GUI or web interface for image upload and emotion prediction.​
+- Real-time video stream processing using OpenCV.
+  
+- Face detection with Haar Cascade or HOG + SVM.
+  
+- Emotion classification using a trained machine learning model.
+  
+- GUI or web interface for image upload and emotion prediction.​
 
 To run use python app.py
